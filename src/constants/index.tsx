@@ -1,0 +1,1 @@
+export const LIST_LOCALSTORAGE_NAME = 'todoList'

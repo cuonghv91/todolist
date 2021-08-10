@@ -1,0 +1,10 @@
+.icon {
+    width: 40px;
+}
+
+.content {
+    width: calc(100% - 40px);
+}
+.checkbox {
+    top: 1px;
+}
